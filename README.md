@@ -47,6 +47,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## My process
 -On this challeng I will go with a mobile view
 -for the active states I will attemp to use a modal div
+Used a div as my modal.
+-Had trouble making the modal animate with css, as soon as I had it then I added the little JS.
 ### Built with
 
 - Semantic HTML5 markup
